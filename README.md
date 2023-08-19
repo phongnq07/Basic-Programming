@@ -1,5 +1,5 @@
 # Basic-Programming
-Basic Programming examples
+
 # Chapter 1 - Program Structure
 # Chapter 2 - Basic Data Types
 # Chapter 3 - Program Control
